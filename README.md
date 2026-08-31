@@ -66,9 +66,11 @@ The project uses the Online Retail II transaction dataset.
 
 The analysis uses the `Year 2010-2011` worksheet containing transaction-level e-commerce data.
 
+
 ## 👩‍💻 Author
 
 **Kratika Jain**
+
 
 ## 📂 Project Structure
 
